@@ -31,7 +31,9 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
 <p>
   <img src="https://img.shields.io/badge/WeChat-MoYun0617-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: MoYun0617" />
   <img src="https://img.shields.io/badge/Instagram-Shaoqi%20Tang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: Shaoqi Tang" />
-  <img src="https://img.shields.io/badge/LinkedIn-Shaoqi%20Tang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Shaoqi Tang" />
+  <a href="https://www.linkedin.com/in/shaoqi-tang-058b30306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaoqi%20Tang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Shaoqi Tang" />
+  </a>
   <a href="mailto:tangshaoqi11@gmail.com?cc=shaoqi_tang@163.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: tangshaoqi11@gmail.com or shaoqi_tang@163.com" />
   </a>
