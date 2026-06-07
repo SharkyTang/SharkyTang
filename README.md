@@ -26,6 +26,15 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
 - Currently building `word-record-pwa`, `APCatalog`, and Obsidian/Codex skills.
 - My style: learn fast, build small, ship often.
 
+## 🌐 Socials:
+
+<p>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat badge" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+</p>
+
 ## Tech Stack
 
 <div align="center">
