@@ -29,10 +29,12 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
 ## 🌐 Socials:
 
 <p>
-  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat badge" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  <img src="https://img.shields.io/badge/WeChat-MoYun0617-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: MoYun0617" />
+  <img src="https://img.shields.io/badge/Instagram-Shaoqi%20Tang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: Shaoqi Tang" />
+  <img src="https://img.shields.io/badge/LinkedIn-Shaoqi%20Tang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Shaoqi Tang" />
+  <a href="mailto:tangshaoqi11@gmail.com?cc=shaoqi_tang@163.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: tangshaoqi11@gmail.com or shaoqi_tang@163.com" />
+  </a>
 </p>
 
 ## Tech Stack
