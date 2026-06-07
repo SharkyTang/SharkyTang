@@ -75,13 +75,6 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
         <a href="https://github.com/SharkyTang/explain-obsidian-term-skill">Repository</a>
       </p>
     </td>
-    <td width="50%">
-      <h3>vibe-coding-cn</h3>
-      <p>A forked project space for learning, experimenting, and collecting coding ideas.</p>
-      <p>
-        <a href="https://github.com/SharkyTang/vibe-coding-cn">Repository</a>
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -89,14 +82,13 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SharkyTang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharkyTang&theme=tokyonight"
+    alt="GitHub profile summary"
   />
+  <br />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharkyTang&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharkyTang&theme=tokyonight"
+    alt="GitHub stats summary"
   />
 </div>
 
