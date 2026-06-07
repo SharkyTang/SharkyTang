@@ -14,19 +14,17 @@
 
 ## About Me
 
-```ts
-const shaoqi = {
-  name: "Shaoqi Tang",
-  handle: "SharkyTang",
-  location: "Durham, UK",
-  role: "Computer Science student",
-  focus: ["AI tools", "full-stack apps", "automation", "developer experience"],
-  currentlyBuilding: ["word-record-pwa", "APCatalog", "Obsidian/Codex skills"],
-  style: "learn fast, build small, ship often",
-};
-```
+I'm Shaoqi, a Computer Science student at Durham University. I like making practical software: small tools, useful interfaces, and experiments that start as "wait, can I build this?" and end up becoming real.
 
-I like making practical software: tiny tools, useful interfaces, and experiments that start as "wait, can I build this?" and end up becoming real.
+<p>
+  <img src="https://img.shields.io/badge/Location-Durham%2C%20UK-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location: Durham, UK" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Tools-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="Focus: AI tools" />
+  <img src="https://img.shields.io/badge/Building-Web%20Apps-0f172a?style=for-the-badge&logo=react&logoColor=38bdf8" alt="Building web apps" />
+</p>
+
+- Exploring AI tools, full-stack apps, automation, and developer workflows.
+- Currently building `word-record-pwa`, `APCatalog`, and Obsidian/Codex skills.
+- My style: learn fast, build small, ship often.
 
 ## Tech Stack
 
