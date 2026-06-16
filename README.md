@@ -29,7 +29,7 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
 ## 🌐 Socials:
 
 <p>
-  <img src="https://img.shields.io/badge/WeChat-MoYun0617-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: MoYun0617" />
+  <img src="./assets/wechat-badge.svg" alt="WeChat: MoYun0617" />
   <img src="https://img.shields.io/badge/Instagram-Shaoqi%20Tang-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: Shaoqi Tang" />
   <a href="https://www.linkedin.com/in/shaoqi-tang-058b30306/">
     <img src="https://img.shields.io/badge/LinkedIn-Shaoqi%20Tang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Shaoqi Tang" />
@@ -77,37 +77,6 @@ I'm Shaoqi, a Computer Science student at Durham University. I like making pract
     </td>
   </tr>
 </table>
-
-## GitHub Snapshot
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharkyTang&theme=tokyonight"
-    alt="GitHub profile summary"
-  />
-  <br />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharkyTang&theme=tokyonight"
-    alt="GitHub stats summary"
-  />
-</div>
-
-## Contribution Flow
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/SharkyTang/SharkyTang/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/SharkyTang/SharkyTang/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/SharkyTang/SharkyTang/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ## Contact
 
