@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="290" viewBox="0 0 600 290" role="img" aria-labelledby="title desc">
+  <title id="title">Shaoqi Tang</title>
+  <desc id="desc">A terminal window introducing Shaoqi Tang: small tools, useful software.</desc>
+  <defs><clipPath id="window"><rect x=".5" y=".5" width="599" height="289" rx="12"/></clipPath></defs>
+  <g clip-path="url(#window)">
+    <rect width="600" height="290" fill="#10161b"/>
+    <rect width="600" height="43" fill="#1b232b"/>
+    <path d="M0 43.5H600" stroke="#303b46"/>
+    <circle cx="25" cy="22" r="5" fill="#ed6a5e"/>
+    <circle cx="44" cy="22" r="5" fill="#f4bf50"/>
+    <circle cx="63" cy="22" r="5" fill="#61c554"/>
+    <g font-family="Menlo, Consolas, 'Liberation Mono', monospace">
+      <text x="330" y="28" text-anchor="middle" font-size="19" fill="#9daab6">sharky@durham: ~</text>
+      <text x="28" y="96" font-size="27" fill="#7ee787">$ <tspan fill="#b8c5d1">whoami</tspan></text>
+      <text x="25" y="171" font-size="62" font-weight="700" letter-spacing="-3" fill="#eef4f8">Shaoqi Tang<tspan fill="#7ee787">.</tspan></text>
+      <text x="28" y="219" font-size="26" fill="#a7b5c1">small tools. useful software.</text>
+      <text x="28" y="263" font-size="22" fill="#7d8c99">CS @ Durham University</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="599" height="289" rx="12" fill="none" stroke="#34414d"/>
+</svg>
